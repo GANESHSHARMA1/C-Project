@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1660471071 source:h:\chirag g. shetty\instapi\finale instapi\cpc project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+
+1660595530 source:h:\chirag g. shetty\problem statements!\computer science and engineering problem statement!\lita 7c4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+
